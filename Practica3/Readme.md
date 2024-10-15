@@ -35,16 +35,16 @@ Aquí yo decidí situar el cubo más arriba para ver como reaccionan los
 
 
 
-## Ejercicios -> Scripts
-## Ejercicio 1:
+## Ejercicios
+### Ejercicio 1:
 ![GIF animado](./gifs/ejercicio1.gif)
 Al pulsar cada tecla se observa como se muestra en terminal la tecla pulsada y la "presión" que se ejerce sobre ella.
 
-## Ejercicio 2:
+### Ejercicio 2:
 ![GIF animado](./gifs/ejercicio2.gif)
 Para esto, tuvimos que asignar en Fire1 la tecla "H", y lo que hice fue mostrar en terminal un mensaje para ver que funciona
 
-## Ejercicio 3:
+### Ejercicio 3:
 ![GIF animado](./gifs/ejercicio3.gif)
 - En el primer caso,el cubo se moverá el doble de rápido en la dirección X. Esto puede resultar en un desplazamiento más pronunciado en esa dirección.
 - En el segundo caso, el cubo se moverá más rápido en la misma dirección. Si antes la velocidad era 2, ahora será 4, lo que hará que el cubo recorra más distancia en el mismo tiempo.
@@ -52,29 +52,29 @@ Para esto, tuvimos que asignar en Fire1 la tecla "H", y lo que hice fue mostrar 
 - En el caso d, si el cubo comienza en una posición con y > 0, seguirá moviéndose en función de la dirección dada por moveDirection. Dependiendo de si el vector tiene un componente en y, el cubo podría moverse también verticalmente.
 - En el último caso, el cubo se mueve en relación al sistema de referencia mundia (el cubo se mueve en un eje global)
 
-## Ejercicio 4:
+### Ejercicio 4:
 ![GIF animado](./gifs/ejercicio4.gif)
 
-## Ejercicio 5 / 6:
+### Ejercicio 5 / 6:
 ![GIF animado](./gifs/ejercicio6.gif)
 Los pongo juntos porque yo hice el 5 con Time.deltaTime directamente
 
-## Ejercicio 7:
+### Ejercicio 7:
 ![GIF animado](./gifs/ejercicio7.gif)
 
-## Ejercicio 8:
+### Ejercicio 8:
 ![GIF animado](./gifs/ejercicio8.gif)
 
-## Ejercicio 9:
+### Ejercicio 9:
 ![GIF animado](./gifs/ejercicio9.gif)
 
-## Ejercicio 10:
+### Ejercicio 10:
 ![GIF animado](./gifs/ejercicio10.gif)
 
-## Ejercicio 11:
+### Ejercicio 11:
 ![GIF animado](./gifs/ejercicio11.gif)
 
-## Ejercicio 12:
+### Ejercicio 12:
 ![GIF animado](./gifs/ejercicio12.gif)
 1. Masa de la esfera 10 veces mayor que el cilindro:
 - El cilindro choca contra la esfera y es repelido bruscamente debido a la diferencia de masa. La esfera apenas se mueve, mientras que el cilindro retrocede.
