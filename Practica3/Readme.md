@@ -34,6 +34,7 @@ Aquí yo decidí situar el cubo más arriba para ver como reaccionan los
 ![GIF animado](./gifs/situacion9.gif)
 
 
+
 ## Ejercicios -> Scripts
 ## Ejercicio 1:
 ![GIF animado](./gifs/ejercicio1.gif)
